@@ -20,6 +20,7 @@ void f_queue(stack_t **head, unsigned int counter)
  * @head: head of the stack
  * Return: no return
 */
+
 void addqueue(stack_t **head, int n)
 {
 	stack_t *new_node, *aux;
